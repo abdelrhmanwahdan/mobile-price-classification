@@ -1,6 +1,6 @@
-# Students performance in exams
+# Mobile price prediction
 
-![Exam](images/mobile.webp "exam")
+![mobile](images/mobile.webp "mobile")
 
 # AIM
 In this Project,We're going to predict the price range of each mobile in the dataser based on the mobile specifications as : Battery power, 3G enabled , wifi ,Bluetooth, Ram etc .
@@ -19,7 +19,7 @@ In this Project,We're going to predict the price range of each mobile in the dat
 4. **Data analysis and visualization.**
 
 
-    ![Ram](images/all.png "ram")
+    ![All](images/all.png "all")
 
 
 
