@@ -3,7 +3,7 @@
 ![mobile](images/mobile.webp "mobile")
 
 # AIM
-In this Project,We're going to predict the price range of each mobile in the dataser based on the mobile specifications as : Battery power, 3G enabled , wifi ,Bluetooth, Ram etc .
+In this Project,We're going to predict the price range of each mobile in the dataset based on the mobile specifications as : Battery power, 3G enabled , wifi ,Bluetooth, Ram etc .
 
 # Usage
 - This kind of prediction will help companies to  estimate the price of mobiles of an mobile phone based on its specifications.
