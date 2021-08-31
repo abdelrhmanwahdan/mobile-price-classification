@@ -96,7 +96,7 @@ In this Project,We're going to predict the price range of each mobile in the dat
 
 # Conclusion
 
-logistic regression model outperforms other models in the mobile price calssification problem with accuracy 94% .
+logistic regression model outperforms other models in the mobile price classification problem with accuracy 94% .
 
 ![Predictions](images/predictions.png "predictions")
 
